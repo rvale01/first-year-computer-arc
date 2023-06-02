@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "*.COBOL*": "cobol",
+        "*.COB*": "cobol",
+        "*.COBCOPY*": "cobol",
+        "*.COPYBOOK*": "cobol",
+        "*.COPY*": "cobol",
+        "*.PL1*": "pl1",
+        "*.PLI*": "pl1",
+        "*.INC*": "pl1",
+        "*.INCLUDE*": "pl1",
+        "*.JCL*": "jcl",
+        "*.ASM*": "hlasm",
+        "*.ASSEMBLE*": "hlasm",
+        "*.HLASM*": "hlasm",
+        "*.HLA*": "hlasm",
+        "sstream": "c",
+        "__bit_reference": "c",
+        "__hash_table": "c",
+        "__string": "c",
+        "algorithm": "c",
+        "string": "c",
+        "string_view": "c",
+        "unordered_map": "c",
+        "iosfwd": "cpp"
+    }
+}
